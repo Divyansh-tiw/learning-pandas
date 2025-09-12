@@ -1,6 +1,6 @@
-,Unnamed: 0,Source,Destination,Train_Name,Speed_kmph,Distance_km
-0,0,New Delhi,Mumbai Central,Rajdhani Express,100,1384
-1,1,Howrah,Chennai,Coromandel Express,80,1659
-2,2,Bangalore City,Hyderabad,Kacheguda Express,70,707
-3,3,Ahmedabad,Jaipur,Aravalli Express,65,632
-4,4,Kolkata,Patna,Shatabdi Express,85,532
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Source,Destination,Train_Name,Speed_kmph,Distance_km
+0,0,0,0,New Delhi,Mumbai Central,Rajdhani Express,100,1384
+1,1,1,1,Howrah,Chennai,Coromandel Express,80,1659
+2,2,2,2,Bangalore City,Hyderabad,Kacheguda Express,70,707
+3,3,3,3,Ahmedabad,Jaipur,Aravalli Express,65,632
+4,4,4,4,Kolkata,Patna,Shatabdi Express,85,532
